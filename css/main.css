@@ -1,0 +1,38 @@
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/*
+ * Base structure
+ */
+html {
+  background: url(../WebBG1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  padding-top: 1.75%;
+  background: transparent;
+}
+
+#mar20 {
+  margin-top: 1.5%;
+}
+
+#mar25 {
+  margin-top: 1.75%;
+}
+
+#mar40 {
+  margin-top: 2.75%;
+}
+
+#mar102 {
+  margin-top: 8.6%;
+}
