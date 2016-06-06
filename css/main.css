@@ -17,25 +17,50 @@ html {
 }
 
 body {
-  padding-top: 1.75%;
-  padding-bottom: 1.75%;
+  padding-top: 25px; /*1.75%*/
+  padding-bottom: 25px; /*1.75%*/
   padding-left: 20%;
   padding-right: 20%;
   background: transparent;
 }
 
-#mar20 {
-  margin-top: 1.5%;
+#mar20 { /*1.5%*/
+  margin-top: 20px;
 }
 
-#mar25 {
-  margin-top: 1.75%;
+#mar25 { /*1.75%*/
+  margin-top: 25px;
 }
 
-#mar40 {
-  margin-top: 2.75%;
+#mar40 { /*2.75%*/
+  margin-top: 40px;
 }
 
-#mar102 {
-  margin-top: 8.6%;
+#mar102 { /*8.6%*/
+  margin-top: 80px;
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+    
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
 }
