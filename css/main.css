@@ -17,42 +17,48 @@ html {
 }
 
 body {
-  padding-top: 25px; /*1.75%*/
-  padding-bottom: 25px; /*1.75%*/
+  padding-top: 1.75%; /*1.75%*/
+  padding-bottom: 1.75%; /*1.75%*/
   padding-left: 20%;
   padding-right: 20%;
   background: transparent;
 }
 
 #mar20 { /*1.5%*/
-  margin-top: 20px;
+  margin-top: 1.5%;
 }
 
 #mar25 { /*1.75%*/
-  margin-top: 25px;
+  margin-top: 1.75%;
 }
 
 #mar40 { /*2.75%*/
-  margin-top: 40px;
+  margin-top: 2.75%;
 }
 
 #mar102 { /*8.6%*/
-  margin-top: 80px;
+  margin-top: 8.6%;
 }
 
 /* Custom, iPhone Retina */ 
 @media only screen and (min-width : 320px) {
-    
+    #mar20 {
+      height: 50%;
+    }
 }
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (min-width : 480px) {
-
+    #mar20 {
+      height: 50%;
+    }
 }
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
-
+    #mar20 {
+      height: 50%;
+    }
 }
 
 /* Medium Devices, Desktops */
