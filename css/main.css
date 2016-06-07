@@ -42,26 +42,17 @@ body {
 
 /* Custom, iPhone Retina */ 
 @media only screen and (min-width : 320px) {
-.resize {
-width: 75%;
-height: auto;
-}
+
 }
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (min-width : 480px) {
-.resize {
-width: 75%;
-height: auto;
-}
+
 }
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
-.resize {
-width: 75%;
-height: auto;
-}
+
 }
 
 /* Medium Devices, Desktops */
