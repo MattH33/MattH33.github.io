@@ -19,25 +19,25 @@ html {
 body {
   padding-top: 1.75%; /*1.75%*/
   padding-bottom: 1.75%; /*1.75%*/
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
   background: transparent;
 }
 
 #mar20 { /*1.5%*/
-  margin-top: 1.5%;
+  margin-top: 20px;
 }
 
 #mar25 { /*1.75%*/
-  margin-top: 1.75%;
+  margin-top: 25px;
 }
 
 #mar40 { /*2.75%*/
-  margin-top: 2.75%;
+  margin-top: 40px;
 }
 
 #mar102 { /*8.6%*/
-  margin-top: 8.6%;
+  margin-top: 102px;
 }
 
 /* Custom, iPhone Retina */ 
