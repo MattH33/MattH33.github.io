@@ -17,8 +17,8 @@ html {
 }
 
 body {
-  padding-top: 1.75%; /*1.75%*/
-  padding-bottom: 1.75%; /*1.75%*/
+  padding-top: 25px; /*1.75%*/
+  padding-bottom: 25px; /*1.75%*/
   padding-left: 10%;
   padding-right: 10%;
   background: transparent;
