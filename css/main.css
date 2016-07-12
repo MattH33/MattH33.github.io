@@ -24,6 +24,11 @@ body {
   background: transparent;
 }
 
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
 #mar20 { /*1.5%*/
   margin-top: 1.5%;
 }
