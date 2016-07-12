@@ -24,25 +24,25 @@ body {
   background: transparent;
 }
 
-.col-centered {
-    float: none;
-    margin: 0 auto;
+.rbvideo {
+  margin-top: 40px;
+  max-width: 750px;
 }
 
-#mar20 { /*1.5%*/
-  margin-top: 1.5%;
+.mar20 { /*1.5%*/
+  margin-top: 20px;
 }
 
-#mar25 { /*1.75%*/
-  margin-top: 1.75%;
+.mar25 { /*1.75%*/
+  margin-top: 25px;
 }
 
-#mar40 { /*2.75%*/
-  margin-top: 2.75%;
+.mar40 { /*2.75%*/
+  margin-top: 40px;
 }
 
-#mar102 { /*8.6%*/
-  margin-top: 8.6%;
+.mar102 { /*8.6%*/
+  margin-top: 102px;
 }
 
 /* Custom, iPhone Retina */ 
