@@ -46,7 +46,7 @@ body {
 }
 
 .scaleMail {
-  max-width: 45%;
+  max-width: 65%;
 }
 
 .scaleContact {
@@ -54,7 +54,7 @@ body {
 }
 
 .scaleBottom {
-  max-width: 40%;
+  max-width: 50%;
 }
 
 /* Custom, iPhone Retina */ 
