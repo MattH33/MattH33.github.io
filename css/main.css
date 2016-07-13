@@ -46,11 +46,11 @@ body {
 }
 
 .scaleMail {
-  max-width: 65%;
+  max-width: 70%;
 }
 
 .scaleContact {
-  max-width: 28%;
+  max-width: 48%;
 }
 
 .scaleBottom {
@@ -60,64 +60,29 @@ body {
 /* Custom, iPhone Retina */ 
 @media only screen and (min-width : 320px) {
 
-.mar20 { /*1.5%*/
-  margin-top: 5px;
-}
-
-.mar25 { /*1.75%*/
-  margin-top: 10px;
-}
 
 }
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (min-width : 480px) {
 
-.mar20 { /*1.5%*/
-  margin-top: 15px;
-}
-
-.mar25 { /*1.75%*/
-  margin-top: 20px;
-}
 
 }
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
 
-.mar20 { /*1.5%*/
-  margin-top: 20px;
-}
-
-.mar25 { /*1.75%*/
-  margin-top: 25px;
-}
 
 }
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
 
-.mar20 { /*1.5%*/
-  margin-top: 20px;
-}
-
-.mar25 { /*1.75%*/
-  margin-top: 25px;
-}
 
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
 
-.mar20 { /*1.5%*/
-  margin-top: 20px;
-}
-
-.mar25 { /*1.75%*/
-  margin-top: 25px;
-}
 
 }
